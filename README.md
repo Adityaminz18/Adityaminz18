@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://the-cyberbyte.blogspot.com/](https://the-cyberbyte.blogspot.com/)
 
-- 📫 How to reach me **contact@administration.ga**
+- 📫 How to reach me **contact@administrations.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
