@@ -145,7 +145,7 @@ Cybersecurity professional with a Bachelor’s in Computer Science, recognized f
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaminz18&theme=radical" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=adityaminz18&theme=radical" alt="streak graph" />
 </div>
 
 <br />
