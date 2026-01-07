@@ -93,21 +93,7 @@ Cybersecurity professional with a Bachelor’s in Computer Science, recognized f
   </a>
 </p>
 
----
 
-### 💼 Experience
-
-**Security Engineer Intern | PrudentBit** _(Oct 2023 – Aug 2024)_
-- Managed client’s security needs by identifying and resolving server misconfigurations and API vulnerabilities.
-- Enhanced API security by improving password policies and detecting credentials exposed in JavaScript.
-- Provided comprehensive security assessments and solutions, boosting client confidence.
-
-**Vice President | Sushant Cyber Warriors Club** _(Nov 2022 – Feb 2023)_
-- Conducted seminars on ethical hacking to educate and empower club members with advanced cybersecurity knowledge.
-
-**Penetration Tester (Part-time) | JustClick** _(Mar 2022 – Mar 2023)_
-- Identified and addressed system vulnerabilities, including data tampering, API endpoint backdoors, and IDORs.
-- Collaborated with organizations to understand and remediate identified weaknesses.
 
 ---
 
